@@ -5,6 +5,8 @@ The code was mostly done using pygame, for making the visuals and commands of th
 
 The project was solely done by me, except for character designs(ghosts and pacman)
 
+It should be noted that ghost AI algorythm is not perfect, and has bugs
+
 # How to Install and Run
   1. Download ZIP file
   2. Extract ZIP into a folder
